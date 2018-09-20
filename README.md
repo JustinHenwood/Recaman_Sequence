@@ -1,0 +1,2 @@
+# Recaman_Sequence
+This program generates a Recamán Sequence with the given number of digits in the sequence specified by the user.  This program contains a GUI and utilizes the MVC design pattern.  The user enters the sequence length in a text box and selects the generate sequence button.  From there, an algorithm stores the sequence numbers in an Array List and then displays the full sequence in a Text Area within the GUI.
